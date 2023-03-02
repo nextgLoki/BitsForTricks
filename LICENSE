@@ -1,21 +1,73 @@
-MIT License
+    1. General Provisions 
+        1.1. The following terms and definitions have the following meanings for the purposes of this License agreement (hereinafter referred to as the "Agreement"):
 
-Copyright (c) 2021 nextgLoki
+            - <Rightholder> - stands for <BFT> LLC, owning the Software and providing Users with the opportunity to use the Software.
+            - <Software> - stands for Chaos Tricks software developed by the Rightholder, using which the Users may interact with their viewers during live broadcasts, posted on the following website: https://chaostricks.com.
+            - <User> - stands for any fully capable individual who has reached the age of 18, possibly acting in the interest and on behalf of a legal entity, using the Software.
+            All other terms and definitions found in the Agreement are interpreted by the Parties in accordance with the legislation of the Republic of Armenia, current recommendations (RFC) of international Internet standardization bodies and usual interpretation rules of relevant terms that have so far developed on the Internet.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+        1.2. This Agreement is the document regulating the rules for using the User's Software, which has a copy of this Software legally manufactured and put into civil circulation.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+        1.3. All exclusive property rights to the Software belong to the Rightholder. Installing the Software on the computer, or using the Software means full and unconditional acceptance of the Agreement by the User. The User who does not agree with the terms of the Agreement in whole or in part is obliged to stop any use of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+        1.4. Under this License Agreement, the Rightholder grants the User a free simple (non-exclusive) license to use the Software within the limits established by the Agreement.
+
+
+    2. Party Rights and Obligations
+        2.1. The Rightholder has the right:
+            2.1.1. To change the Software modification, restrict access to the Software in case of User's violation of the terms of the Agreement, as well as at its own discretion without prior notice to the Users. At the same time, the Rightholder shall not be liable to Users or other third parties for any changes, suspension or termination of the Software provision; to prohibit the User's access to certain Software functionality;
+            2.1.2. delete any informational content of the information resource, including texts, reviews, comments, announcements, photos, videos without explaining the reasons, including cases of User violating the terms of the Agreement, the Rightholder receiving relevant requests from law enforcement, other state bodies, bodies local government;
+            2.1.3. display ads on the Software for Users to see.
+
+        2.2. The User has the right to:
+            2.2.1.  use the Software solely for the purposes and in the manner provided for by the Agreement and not prohibited by the legislation of the Republic of Armenia;
+
+        2.3. The User agrees not to use the Software for:
+            2.3.1. uploading, sending or any other way of publishing materials, including indicating its location by posting links, that are illegal, harmful, threatening, offending morality, defamatory, violating copyright and other intellectual property rights, constituting an act of unfair competition propagating hatred and / or discrimination against people on racial, ethnic, gender, social grounds, as well as violating accepted norms and ethics of communication on the Internet, or hindering other users' work with the Software;
+            2.3.2. uploading, sending or any other way of publishing materials that violate any rights of third parties, including the right to trademarks (service marks), trade secrets, and / or to violating any other third party intellectual property rights;
+            2.3.3. uploading, sending or any other way of publishing materials that the User has no right to make available by law or in accordance with any agreements with third parties;
+            2.3.4. violation of any norms of the current Armenian and / or international legislation, as well as the legislation of foreign states.
+
+        2.4. The User is prohibited to:
+            2.4.1. use the Software for other purposes, except personal non-commercial use, exclusively within the standard functionality framework of the Software;
+            2.4.2. collect any personal data of any User of the Software;
+            2.4.3. use the Software to conduct business, trade or use it on behalf of a commercial enterprise;
+            2.4.4. distribute any part or parts of the Software without written permission;
+            2.4.5. use the Software for any illegal purpose or to promote illegal activity;
+            2.4.6. interfere with or try to harm the proper functioning of the Software;
+            2.4.7. carry out any automated use of the Software or related systems, take any actions that in the Rightholder's perspective may cause or potentially create an unreasonable or disproportionately heavy load on the Rightholder's servers or network infrastructure;
+            2.4.8. bypass any bot filtering systems or other measures taken to limit the Software access, as well as use any software, technology or device to track and scan the Software operation, as well as collect or manipulate its data;
+            2.4.9. bypass, disable or otherwise interfere with any security-related features of the Software or functions that prevent or restrict use or copying of content, or enforce restrictions on using of the Software or content available through the Software;
+            2.4.10. copy or reproduce the Software, including but not limited to C #, HTML, JavaScript, or other types of code.
+            2.4.11. decrypt, decompile, disassemble or reconstruct any software that in any way forms part of the Software.
+
+        2.5. The User's actions and / or inactions that entail a violation of the Rightholder's rights or aimed at violating the Rightholder's rights to any materials, Software, objects of sale or their components, entail criminal, civil and administrative liability in accordance with the legislation of the Republic of Armenia.
+
+    3. Responsibility
+        3.1. The Software are provided "as it is". The Rightholder is not responsible for:
+            3.1.1. deletion, non-delivery, delay in delivery or inability to download any User data, any interruption or termination of data transfer to / from the Software;
+            3.1.2. for non-compliance of the Software with User's goals and requirements;
+            3.1.3. errors or inaccuracies of content and materials of the Software;
+            3.1.4. unauthorized access that arose through no Rightholder's fault;
+            3.1.5. any kind of errors, viruses, Trojans, etc. that may be transmitted to the Software or via the Software e by any third party;
+            3.1.6. any errors or omissions in any content and materials, as well as any loss or damage of any kind incurred as a result of using any content posted, transmitted or otherwise made available via the Software.
+    4. Intellectual property
+        4.1. The User acknowledges and agrees that the Rightholder reserves all rights, results of intellectual activity and means of individualization of any kind, associated with the Software, including applicable copyrights, trademarks, etc. Other product and company names mentioned on the Software may be trademarks of their respective owners.
+        4.2. If, while using the Software, the User creates files containing its image, he gratuitously gives the Rightholder consent to use this image in accordance with law of Republic of Armenia for purposes not related to the identification of the User, namely: as part of promotion or advertising of Rightholder's Software by any means and in any form.
+        4.3. If, while using the Software, the User creates results of intellectual activity, he provides the Rightholder with a simple (non-exclusive) license to use those free of charge under the following conditions:
+            4.3.1. The term of license granted is timeless from the date of its creation.
+            4.3.2. License territory: all countries of the world via Internet;
+            4.3.3. Methods of use: recording, reproduction, distribution, public display, making available to the public by any means and in any form, processing, subtitling, storage, broadcast / cable communication, using for promotion or advertising of the Software Rightholder's services by any means and in any form.
+            4.3.4. The User also permits using results of intellectual activity without specifying names and pseudonyms of the User / author (anonymous use).
+            4.3.5. The User expresses consent to the disclosure of results of intellectual activity, being the right to take an action or give consent to the action being taken that shall for the first time make it available to the public in the ways provided for by this Agreement.
+            4.3.6. The User allows the Rightholder accompany the result of intellectual activity, when using it, with an introduction, epilogue, comments or any explanations, illustrations, or the Rightholder's means of individualization.
+            4.3.7. The Rightholder has the right not to provide the User with reports on using the results of intellectual activity.
+            4.3.8. The User grants the Rightholder the right to sublicense the results of intellectual activity provided for by the Agreement, that is, the right to grant another person (the Rightholder's partner) the right to use the result within the limits established by the Agreement.
+
+    5. Rightholder's details:
+        Limited liability Company <BFT>
+        TIN 02854884
+        Legal entity code 53100990
+        Date of Registration 2022-03-11 
+        Address: 10 Vazgen Sargsyan, Apt 32, 0010 Yerevan Republic Armenia
+        Email: bft@chaostricks.com
