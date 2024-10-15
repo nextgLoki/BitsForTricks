@@ -235,7 +235,6 @@ applications, and to alter it and redistribute it freely, subject to the followi
      being the original software.
   3. This notice may not be removed or altered from any source distribution.
 
-
 License notice for BepInEx
 -------------------------------
 BepInEx - Unity 
@@ -304,3 +303,72 @@ Available at
 https://github.com/microsoft/nodejstools/blob/main/LICENSE
 
 Code link: https://github.com/microsoft/nodejstools/blob/main/Nodejs/Product/Nodejs/SharedProject/SystemUtilities.cs
+
+License notice for Rust libc and image
+-------------------------------
+Apache License, Version 2.0 (LICENSE-APACHE)
+https://www.apache.org/licenses/LICENSE-2.0
+https://github.com/rust-lang/libc/blob/HEAD/LICENSE-APACHE
+https://github.com/image-rs/image/blob/main/LICENSE-APACHE
+
+MIT License (LICENSE-MIT)
+https://opensource.org/licenses/MIT
+https://github.com/rust-lang/libc/blob/HEAD/LICENSE-MIT
+https://github.com/image-rs/image/blob/main/LICENSE-MIT
+
+
+License notice for TikTokLive_Sharp
+-------------------------------
+MIT License
+
+Copyright (c) 2024 Frank van Hoof
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. The user shall attempt to attribute usage of the Software to the Copyright-Holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+TikTokLiveSharp/TikTokLiveUnity is a fork/continuation of sebheron's TikTokLiveSharp V0.1.4 The original project uses the same MIT-License as this one
+
+Available at
+https://www.nuget.org/packages/TikTokLive_Sharp/1.2.0/license
+https://github.com/frankvHoof93/TikTokLiveSharp/blob/main/LICENSE.md
+
+License notice for protobuf-net
+-------------------------------
+The core Protocol Buffers technology is provided courtesy of Google.
+At the time of writing, this is released under the BSD license.
+Full details can be found here:
+
+http://code.google.com/p/protobuf/
+
+The protobuf-net logo is Copyright 2021 onwards Marc Gravell; you must
+not use this logo (or any derivative) in your own works without explicit
+permission.
+
+This .NET implementation is Copyright 2008 onwards Marc Gravell
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Available at
+https://github.com/protobuf-net/protobuf-net/blob/main/Licence.txt
+
+
+License notice for resources from SVG Repo (https://www.svgrepo.com)
+-------------------------------
+SVG Repo License available at https://www.svgrepo.com/page/licensing/
+
+Resources MIT License by zest:
+https://www.svgrepo.com/svg/509920/eye
+https://www.svgrepo.com/svg/509919/eye-off
