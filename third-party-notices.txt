@@ -5,9 +5,10 @@ In the event that we accidentally failed to list a required notice, please
 bring it to our attention. Email us: bft@chaostricks.com or write via Discord https://discord.gg/8k2KpHb
 
 The attached notices are provided for information only.
+--------------------------------------------------------------
 
-License notice for Microsoft.Win32.Registry
--------------------------------
+License notice for Microsoft.Win32.Registry:
+
 The MIT License (MIT)
 
 Copyright (c) .NET Foundation and Contributors
@@ -31,9 +32,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+--------------------------------------------------------------
 
-License notice for Microsoft.Xaml.Behaviors.Wpf
--------------------------------
+License notice for Microsoft.Xaml.Behaviors.Wpf:
 
 Available at
 https://github.com/microsoft/XamlBehaviorsWpf/blob/master/LICENSE
@@ -59,9 +60,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+--------------------------------------------------------------
 
-License notice for Microsoft-WindowsAPICodePack-Core, Microsoft-WindowsAPICodePack-Shell
--------------------------------
+License notice for Microsoft-WindowsAPICodePack-Core, Microsoft-WindowsAPICodePack-Shell:
 
 License: Custom License
 MICROSOFT SOFTWARE LICENSE TERMS
@@ -69,10 +70,9 @@ MICROSOFT WINDOWS API CODE PACK FOR MICROSOFT .NET FRAMEWORK
 
 Available at
 https://github.com/contre/Windows-API-Code-Pack-1.1/blob/master/LICENSE
+--------------------------------------------------------------
 
-
-License notice for NAudio, NAudio.Asio, NAudio.Core, NAudio.Midi, NAudio.Wasapi, NAudio.WinForms, NAudio.WinMM
--------------------------------
+License notice for NAudio, NAudio.Asio, NAudio.Core, NAudio.Midi, NAudio.Wasapi, NAudio.WinForms, NAudio.WinMM:
 
 Available at
 https://github.com/naudio/NAudio/blob/master/license.txt
@@ -84,9 +84,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+--------------------------------------------------------------
 
-License notice for Newtonsoft.Json
--------------------------------
+License notice for Newtonsoft.Json:
 
 Available at
 https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
@@ -100,10 +100,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+--------------------------------------------------------------
 
 License notice for System.IO, System.Net.Http, System.Runtime, System.Security.Cryptography.Algorithms,
-System.Security.Cryptography.Encoding, System.Security.Cryptography.Primitives, System.Security.Cryptography.X509Certificates
--------------------------------
+System.Security.Cryptography.Encoding, System.Security.Cryptography.Primitives, System.Security.Cryptography.X509Certificates:
 
 MICROSOFT SOFTWARE LICENSE TERMS
 
@@ -111,18 +111,17 @@ MICROSOFT .NET LIBRARY
 
 Available at
 https://dotnet.microsoft.com/en-us/dotnet_library_license.htm
+--------------------------------------------------------------
 
-License notice for System.Security.AccessControl, System.Security.Principal.Windows
--------------------------------
+License notice for System.Security.AccessControl, System.Security.Principal.Windows:
 
 The MIT License (MIT)
 
 Available at
 https://licenses.nuget.org/MIT
+--------------------------------------------------------------
 
-License notice for WebSocketSharp
--------------------------------
-
+License notice for WebSocketSharp:
 Available at
 https://raw.githubusercontent.com/sta/websocket-sharp/master/LICENSE.txt
 
@@ -147,19 +146,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+--------------------------------------------------------------
 
-License notice for UnityDoorstop
--------------------------------
-
+License notice for UnityDoorstop:
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 2.1, February 1999
 
 Available at
 https://github.com/NeighTools/UnityDoorstop/blob/master/LICENSE
+--------------------------------------------------------------
 
-License notice for Mono.Cecil
--------------------------------
-
+License notice for Mono.Cecil:
 The MIT License (MIT)
 
 Available at
@@ -186,10 +183,9 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+--------------------------------------------------------------
 
-License notice for Lib.Harmony
--------------------------------
-
+License notice for Lib.Harmony:
 Available at
 https://github.com/pardeike/Harmony/blob/master/LICENSE
 
@@ -214,10 +210,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+--------------------------------------------------------------
 
-License notice for ScriptHookVDotNet
--------------------------------
-
+License notice for ScriptHookVDotNet:
 Available at
 https://github.com/crosire/scripthookvdotnet/blob/main/LICENSE.txt
 
@@ -235,8 +230,9 @@ applications, and to alter it and redistribute it freely, subject to the followi
      being the original software.
   3. This notice may not be removed or altered from any source distribution.
 
-License notice for BepInEx
--------------------------------
+--------------------------------------------------------------
+
+License notice for BepInEx:
 BepInEx - Unity 
 Copyright (C) 2020 BepInEx Team
 
@@ -245,10 +241,9 @@ Version 2.1, February 1999
 
 Available at
 https://github.com/BepInEx/BepInEx/blob/master/LICENSE
+--------------------------------------------------------------
 
-License notice for MelonLoader in the separate mod for ETG
--------------------------------
-
+License notice for MelonLoader in the separate mod for ETG:
 Copyright 2020 - 2022 Lava Gang
 
 Apache License
@@ -257,10 +252,9 @@ http://www.apache.org/licenses/
 
 Available at
 https://github.com/LavaGang/MelonLoader/blob/master/LICENSE.md 
--------------------------------
+--------------------------------------------------------------
 
-License notice for Hell2Modding
--------------------------------
+License notice for Hell2Modding:
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -283,10 +277,9 @@ SOFTWARE.
 
 Available at
 https://github.com/SGG-Modding/Hell2Modding/blob/master/LICENSE
--------------------------------
+--------------------------------------------------------------
 
-License notice for code of running unelevated process
--------------------------------
+License notice for code of running unelevated process:
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -304,8 +297,9 @@ https://github.com/microsoft/nodejstools/blob/main/LICENSE
 
 Code link: https://github.com/microsoft/nodejstools/blob/main/Nodejs/Product/Nodejs/SharedProject/SystemUtilities.cs
 
-License notice for Rust libc and image
--------------------------------
+--------------------------------------------------------------
+
+License notice for Rust libc and image:
 Apache License, Version 2.0 (LICENSE-APACHE)
 https://www.apache.org/licenses/LICENSE-2.0
 https://github.com/rust-lang/libc/blob/HEAD/LICENSE-APACHE
@@ -315,28 +309,9 @@ MIT License (LICENSE-MIT)
 https://opensource.org/licenses/MIT
 https://github.com/rust-lang/libc/blob/HEAD/LICENSE-MIT
 https://github.com/image-rs/image/blob/main/LICENSE-MIT
+--------------------------------------------------------------
 
-
-License notice for TikTokLive_Sharp
--------------------------------
-MIT License
-
-Copyright (c) 2024 Frank van Hoof
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. The user shall attempt to attribute usage of the Software to the Copyright-Holder.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-TikTokLiveSharp/TikTokLiveUnity is a fork/continuation of sebheron's TikTokLiveSharp V0.1.4 The original project uses the same MIT-License as this one
-
-Available at
-https://www.nuget.org/packages/TikTokLive_Sharp/1.2.0/license
-https://github.com/frankvHoof93/TikTokLiveSharp/blob/main/LICENSE.md
-
-License notice for protobuf-net
--------------------------------
+License notice for protobuf-net:
 The core Protocol Buffers technology is provided courtesy of Google.
 At the time of writing, this is released under the BSD license.
 Full details can be found here:
@@ -363,12 +338,32 @@ This .NET implementation is Copyright 2008 onwards Marc Gravell
 
 Available at
 https://github.com/protobuf-net/protobuf-net/blob/main/Licence.txt
+--------------------------------------------------------------
 
-
-License notice for resources from SVG Repo (https://www.svgrepo.com)
--------------------------------
+License notice for resources from SVG Repo (https://www.svgrepo.com):
 SVG Repo License available at https://www.svgrepo.com/page/licensing/
 
 Resources MIT License by zest:
 https://www.svgrepo.com/svg/509920/eye
 https://www.svgrepo.com/svg/509919/eye-off
+--------------------------------------------------------------
+
+License notice for Minecraft Fabric template:
+CC0 1.0 Universal
+
+Available at https://github.com/FabricMC/fabric-example-mod/blob/1.21/LICENSE
+--------------------------------------------------------------
+
+License notice for PirateTok/live-cs:
+BSD Zero Clause License
+
+Available at https://github.com/PirateTok/live-cs/blob/main/LICENSE
+--------------------------------------------------------------
+
+Some icons used from https://remixicon.com/
+
+Remix Icon License v1.0
+Version 1.0 – January 2026
+Copyright (c) 2017–2026 Remix Design
+
+Available at https://github.com/Remix-Design/remixicon/blob/master/License
